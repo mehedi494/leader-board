@@ -252,5 +252,8 @@ hr {
     margin-bottom: 20px;
   
   }
+  .rating-duration{
+    flex-wrap: wrap;
+  }
   
 }
